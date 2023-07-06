@@ -1,4 +1,4 @@
-### Hi there 👋
+![image](https://github.com/pasimko/pasimko/assets/20600978/c761b624-2335-4631-bc57-85f8fb7e269e)
 
 <!--
 **pasimko/pasimko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
